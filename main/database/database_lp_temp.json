@@ -1,0 +1,32 @@
+{
+    "templates": [
+        {
+            "name": "бу",
+            "payload": "",
+            "attachments": [
+                "photo66105035_457279478_1e1950eb3243d3feb4"
+            ]
+        },
+        {
+            "name": "бл",
+            "payload": "",
+            "attachments": [
+                "photo66105035_457289252_fe9f548c8be93a9957"
+            ]
+        },
+        {
+            "name": "пб",
+            "payload": "",
+            "attachments": [
+                "photo66105035_457290325_dcedf5f8bc40f8754b"
+            ]
+        },
+        {
+            "name": "хомяк",
+            "payload": "",
+            "attachments": [
+                "photo66105035_457289686_3de7447b189d4e17f3"
+            ]
+        }
+    ]
+}
